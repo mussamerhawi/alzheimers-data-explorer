@@ -1,0 +1,52 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Ruserdata
+
+# Example code cache
+.Rproj.user/
+
+# RStudio project files
+*.Rproj
+
+# Build and temporary files
+.DS_Store
+.Rbuildignore
+.Rcheck/
+*.tar.gz
+*.zip
+*.log
+
+# Shiny related
+rsconnect/
+shinyapps.io/
+*.html
+
+# Package documentation and temporary outputs
+vignettes/*.html
+vignettes/*.pdf
+*.knit.md
+*.utf8.md
+*.Rmd~
+
+# Data and cache files
+*.csv
+*.rds
+*.RData
+*.Rda
+data-raw/
+.cache/
+tmp/
+temp/
+
+# Python/reticulate (if used)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+.env/
