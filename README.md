@@ -26,3 +26,7 @@ install.packages(c("shiny", "dplyr", "DT", "ggplot2", "here", "pacman"))
 # Install the custom Alztool package from GitHub
 if (!require(remotes)) install.packages("remotes")
 remotes::install_github("mussamerhawi/Alztool")
+
+## Data Acknowledgement
+The Alzheimer’s dataset used in this app was provided by McGill University for educational and demonstration purposes.  
+And this repository is for academic practice only.
